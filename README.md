@@ -2,6 +2,9 @@
 
 This repository contains a **data mining project applying Graph Neural Networks (GNNs)** to player tracking data from the **NFL Big Data Bowl**. The goal is to model the **relational structure of players on the field** using graphs, then train GNN models to extract insights and perform predictive analysis on football plays.
 
+ - Author: Alexander Meau
+ - Email: ameau01@gmail.com
+
 ---
 
 ## Motivation
