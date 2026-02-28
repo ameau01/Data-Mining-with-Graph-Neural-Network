@@ -4,12 +4,11 @@ This repository contains a **data mining project applying Graph Neural Networks 
 
  - Author: Alexander Meau
  - Email: ameau01@gmail.com
+ - Kaggle: https://www.kaggle.com/code/alexandermeau/data-mining-w-graph-neual-network
 
 ---
 
 ## Motivation
-
-American football is inherently relational: each play defines how players move relative to one another, and the interactions between players often determine key outcomes such as pass direction or play success.
 
 Traditional models (e.g., MLPs or feature-based classifiers) treat plays as unordered sets of features, ignoring spatial and relational information. **Graph Neural Networks** improve this by representing each play as a **graph** where:
 
